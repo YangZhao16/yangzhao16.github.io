@@ -10,10 +10,12 @@ author_profile: true
 {% endif %}
 
 You can also find my articles on my <u><a href="{{author.googlescholar}}"> Google Scholar</a></u> or <u><a href="{{author.researchgate}}"> ResearchGate</a></u> profile.  
+</br>
 
 Note: * - corresponding author.  
 
-# Paper in preparation:  
+
+# Paper in preparation: 
 <b>On the hydromechanical response of transversely isotropic elastic media with internal erosion</b>  
 W. Chen, <b>Y. Zhao</b>, R.I. Borja*, <i>manuscrit finished</i>.  
   
@@ -22,6 +24,7 @@ W.H. Yuan, <b>Y. Zhao*</b>, B.Y. Zhang, <i>manuscript in preparation</i>.
 
 <b>An enhanced assumed strain finite element framework considering two failure modes in transversely isotropic rocks</b>  
 <b>Y. Zhao</b>, R. Wang*, J.M. Zhang, <i>manuscript in preparation</i>.  
+</br>
   
 # Journal papers:
 <b>A dual-mechanism tensile failure criterion for transversely isotropic rocks</b>  
@@ -40,8 +43,9 @@ W.H. Yuan, <b>Y. Zhao*</b>, B.Y. Zhang, <i>manuscript in preparation</i>.
 R.I. Borja*, Q. Yin, <b>Y. Zhao</b> (2020). <i>Computer Methods in Applied Mechanics and Engineering</i>, 360, 112695.
 
 <b>On the strength of transversely isotropic rocks</b>  
-<b>Y. Zhao</b>, S.J. Semnani, Q. Yin, R.I. Borja* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.
-
+<b>Y. Zhao</b>, S.J. Semnani, Q. Yin, R.I. Borja* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
+</br>
+  
 # Conference papers:
 <b>Deformation and strength of transversely isotropic rocks</b>  
 <b>Y. Zhao</b>, R.I. Borja* (2019). In Desiderata Geotechnica (pp. 237-241). Springer, Cham. 
