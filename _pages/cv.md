@@ -34,6 +34,10 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Service and leadership
+Academic services
 ======
-* Currently signed in to 43 different slack teams
+* <b>Journal reviewer</b>  
+  Acta Geotechnica  
+  International Journal for Numerical and Analytical Methods in Geomechanics  
+  Continuum Mechanics and Thermodynamics  
+  KSCE Journal of Civil Engineering  
