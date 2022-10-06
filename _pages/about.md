@@ -13,3 +13,22 @@ redirect_from:
 I am a broadly trained scholar on computational geomechanics, and my research direction focuses on mathematical and computational modeling of coupled hydro-chemo-mechanical processes in subsurface porous rocks, with an emphasis on quantifying anisotropic material responses resulting from inherent microstructures in natural rocks. I acquired my Ph.D. degree in the Department of Civil and Environmental Engineering at Stanford University in September 2021, under the supervision of Professor Ronaldo I. Borja. Now I am a postdoctoral researcher supported by the merit-based Shuimu scholar program at Tsinghua University designed to cultivate young scholars determined to seek long-term success in academia, and I now work at the Department of Hydraulic Engineering at Tsinghua University, collaborating with Professor Jian-min Zhang.
 </p>
 
+# Contact
+Yang Zhao, Ph.D.
+
+<p align="justify"> 
+Postdoctoral researcher
+</p>
+<p align="justify"> 
+Department of Hydraulic Engineering
+</p>
+<p align="justify"> 
+Tsinghua University
+</p>
+<p align="justify"> 
+Beijing, China, 100084
+</p>
+
+Email: yangzhao2021@mail.tsinghua.edu.cn
+
+
