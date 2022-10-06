@@ -11,7 +11,7 @@ Substitute lecturer:
 ======
 * <b>CEE101C: Geotechnical Engineering</b> (undergraduate-level), Fall 2018  
   <i>Department of Civil and Environmental Engineering, Stanford University</i>  
-  Covered topics including fundamental knowledge in geotechnical engineering such as permeability, consolidation, stress and failure criterion in soil, and design processes of earth retaining structures.
+  Covered topics including fundamental knowledge in geotechnical engineering such as permeability, consolidation, stress and failure criterion in soil, and design processes of earth retaining structures.  
 <br>
 
 Teaching assistant:
