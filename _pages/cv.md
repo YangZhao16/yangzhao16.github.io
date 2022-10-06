@@ -21,18 +21,25 @@ Education
   
 * <b>B.S., Hydraulic Engineering</b>, 2012/08-2016/06   
   Tsinghua University, Beijing, CN    
+<br>
 
-Work experience
+Research and professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <b>Shuimu Postdoctoral Fellow</b>, 2021/12-present  
+  <i>Institute of Geotechnical Engineering in the Department of Hydraulic Engineering, Tsinghua University</i>   
+  Program summary: The Shuimu scholar program is a merit-based postdoctoral program at Tsinghua university  
+  Research topics: Fracture modeling of laminated rocks; Constitutive modeling of marine clay  
+  Advisor: Professor Jian-min Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>Data Scientist</b>, 2020/06-2020/09  
+  <i>Summer internship at Ebay Inc.</i>  
+  Key responsibilities: Clustering similar listings posted by sellers, compressing and reorganizing the category tree for the e-commerce platform with techniques such as synonym detection and natural language processing.
+
+* <b>Graduate Research Fellow</b>, 2016/09-2021/09  
+  <i>Department of Civil and Environmental Engineering, Stanford University</i>  
+  Research topics: Modeling of coupled solid deformation-fluid flow in anisotropic elastoplastic geomaterials  
+  Advisor: Professor Ronaldo I. Borja  
+<br>    
   
 Academic services
 ======
@@ -41,3 +48,19 @@ Academic services
   International Journal for Numerical and Analytical Methods in Geomechanics  
   Continuum Mechanics and Thermodynamics  
   KSCE Journal of Civil Engineering  
+<br>
+
+Fellowships
+======
+* <b>John A. Blume Research Fellowship</b>, Stanford University, 2018, 2019.  
+* <b>School of Engineering (SOE) Graduate Fellowship</b>, Stanford University, 2017, 2021.
+* <b>Structural Engineering and Geomechanics (SEG) Fellowship</b>, Stanford University, 2016.
+* <b>Friend of Tsinghua, Mingwei Zhang Scholarship</b>, Tsinghua University, 2015.
+* <b>Yinshuisiyuan First-class Scholarship</b>, Tsinghua University, 2013,2014.
+<br>
+
+Honors and awards
+======
+* <b>Winner of eBay’s university machine learning competition</b>, 2019.
+* <b>Excellent graduates of Tsinghua University (top 10%)</b>, 2016.
+* <b>Excellent thesis for the bachelor’s study at Tsinghua University</b>, 2016.
