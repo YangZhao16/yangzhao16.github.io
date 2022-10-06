@@ -17,7 +17,7 @@ Note: * - corresponding author.
 
 # Paper in preparation: 
 <b>On the hydromechanical response of transversely isotropic elastic media with internal erosion</b>  
-W. Chen, <b>Y. Zhao</b>, R.I. Borja*, <i>manuscrit finished</i>.  
+W. Chen, <b>Y. Zhao</b>, R.I. Borja*, <i>manuscript finished</i>.  
   
 <b>A stress-based double-phase-field framework for tensile fracturing process in transversely isotropic rocks</b>  
 W.H. Yuan, <b>Y. Zhao*</b>, B.Y. Zhang, <i>manuscript in preparation</i>.  
