@@ -16,18 +16,11 @@ I am a broadly trained scholar on computational geomechanics, and my research di
 # Contact
 Yang Zhao, Ph.D.
 
-<p align="justify"> 
+
 Postdoctoral researcher
-</p>
-<p align="justify"> 
 Department of Hydraulic Engineering
-</p>
-<p align="justify"> 
 Tsinghua University
-</p>
-<p align="justify"> 
 Beijing, China, 100084
-</p>
 
 Email: yangzhao2021@mail.tsinghua.edu.cn
 
