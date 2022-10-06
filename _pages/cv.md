@@ -56,7 +56,7 @@ Fellowships
 * <b>School of Engineering (SOE) Graduate Fellowship</b>, Stanford University, 2017, 2021.
 * <b>Structural Engineering and Geomechanics (SEG) Fellowship</b>, Stanford University, 2016.
 * <b>Friend of Tsinghua, Mingwei Zhang Scholarship</b>, Tsinghua University, 2015.
-* <b>Yinshuisiyuan First-class Scholarship</b>, Tsinghua University, 2013,2014.
+* <b>Yinshuisiyuan First-class Scholarship</b>, Tsinghua University, 2013,2014.  
 <br>
 
 Honors and awards
