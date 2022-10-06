@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 You can also find my articles on my <u><a href="{{author.googlescholar}}"> Google Scholar</a></u> or <u><a href="{{author.researchgate}}"> ResearchGate</a></u> profile.  
-</br>
+<br>
 
 Note: * - corresponding author.  
 
@@ -24,7 +24,7 @@ W.H. Yuan, <b>Y. Zhao*</b>, B.Y. Zhang, <i>manuscript in preparation</i>.
 
 <b>An enhanced assumed strain finite element framework considering two failure modes in transversely isotropic rocks</b>  
 <b>Y. Zhao</b>, R. Wang*, J.M. Zhang, <i>manuscript in preparation</i>.  
-</br>
+<br>
   
 # Journal papers:
 <b>A dual-mechanism tensile failure criterion for transversely isotropic rocks</b>  
@@ -44,7 +44,7 @@ R.I. Borja*, Q. Yin, <b>Y. Zhao</b> (2020). <i>Computer Methods in Applied Mecha
 
 <b>On the strength of transversely isotropic rocks</b>  
 <b>Y. Zhao</b>, S.J. Semnani, Q. Yin, R.I. Borja* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
-</br>
+<br>
   
 # Conference papers:
 <b>Deformation and strength of transversely isotropic rocks</b>  
