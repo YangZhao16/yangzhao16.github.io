@@ -15,7 +15,7 @@ You can also find my articles on my <u><a href="{{author.googlescholar}}"> Googl
 Note: * - corresponding author.  
 
 
-# Paper in preparation: 
+## Paper in preparation: 
 <b>On the hydromechanical response of transversely isotropic elastic media with internal erosion</b>  
 W. Chen, <b>Y. Zhao</b>, R.I. Borja*, <i>manuscript finished</i>.  
   
@@ -26,7 +26,7 @@ W.H. Yuan, <b>Y. Zhao*</b>, B.Y. Zhang, <i>manuscript in preparation</i>.
 <b>Y. Zhao</b>, R. Wang*, J.M. Zhang, <i>manuscript in preparation</i>.  
 <br>
   
-# Journal papers:
+## Journal papers:
 <b>A dual-mechanism tensile failure criterion for transversely isotropic rocks</b>  
 <b>Y. Zhao</b>, R. Wang*, J.M. Zhang (2022). <i>Acta Geotechnica</i>, 1-14. 
 
@@ -46,7 +46,7 @@ R.I. Borja*, Q. Yin, <b>Y. Zhao</b> (2020). <i>Computer Methods in Applied Mecha
 <b>Y. Zhao</b>, S.J. Semnani, Q. Yin, R.I. Borja* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
 <br>
   
-# Conference papers:
+## Conference papers:
 <b>Deformation and strength of transversely isotropic rocks</b>  
 <b>Y. Zhao</b>, R.I. Borja* (2019). In Desiderata Geotechnica (pp. 237-241). Springer, Cham. 
 
