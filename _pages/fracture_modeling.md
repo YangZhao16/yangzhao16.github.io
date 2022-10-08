@@ -5,6 +5,7 @@ collection: research
 permalink: /research/fracture-modeling/
 ---
 Under construction: Anticipated finish date: 2022/10/9  
+
 ## A dual-mechanism tensile failure criterion for transversely isotropic rocks 
 
 <img src="/images/DT.jpg"/>  
