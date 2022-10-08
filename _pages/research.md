@@ -7,10 +7,9 @@ author_profile: true
 
 <img src="/images/For_profile.jpg"/>  
 <p align="center">
-Broad outline of Yang Zhao's research.  
+Broad outline of my research.  
 </p>
 <br>  
-<br>
 
 # Summary of Ph.D. Research at Stanford University  
 
