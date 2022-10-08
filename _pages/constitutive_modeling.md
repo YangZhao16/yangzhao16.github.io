@@ -59,6 +59,7 @@ Illustration of the double-yield-surface plasticity model for transversely isotr
 Variation of rock strength with bedding plane orientation. <br>
 (left) Synthetic transversely isotropic rocks (right) NW-Spain Slate  
 </h6>
+<img src="/images/DYS_2.jpg"/>  
 <br>
 
 ## Reference:  
