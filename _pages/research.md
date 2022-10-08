@@ -19,6 +19,6 @@ My collaboration with Professor Borja continues after my graduation, and we toge
 </p>
 
 <b>Focal areas of my research:</b>
-* Constitutive modeling of transversely isotropic rocks
-* Poromechanical modeling of coupled solid deformation-fluid flow in shale
-* Fracture modeling of rocks with bedding planes
+* [Constitutive modeling of transversely isotropic rocks](constitutive_modeling)
+* [Poromechanical modeling of coupled solid deformation-fluid flow in shale](poromechanics)
+* [Fracture modeling of rocks with bedding planes](fracture_modeling)
