@@ -9,7 +9,6 @@ author_profile: true
 <h6 align="center">
 Broad outline of my research.  
 </h6>
-<br>  
 
 <p align="justify">
 My research is to study the underlying physics of solid deformation and fluid flow in subsurface porous rocks under hydraulic, mechanical, and chemical loadings by developing advanced mechanical models and the corresponding computational frameworks, aiming to contribute to the development and safe operation of civil systems for subsurface energy development such as shale gas exploitation and CO2 sequestration. My Ph.D. research focused on the development of a continuum framework for coupled solid deformation-fluid flow for shale, reflecting the unique properties resulting from shale’s laminated bedding structure and bimodal pore size distributions. In this process, I not only developed novel constitutive models for rocks with inherent anisotropy, but also extended the conventional poromechanical frameworks pioneered by Terzaghi and Biot to account for material anisotropy, plasticity, and double porosity. 
