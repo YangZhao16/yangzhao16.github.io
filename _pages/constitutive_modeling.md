@@ -30,7 +30,7 @@ Accordingly, if both bottom and top ends were clamped and the swing of the speci
 Shear bands triggered by end contraints. bedding plane orientation equals (left) 45° (right) 15°.  
 </p>
 <p align="justify">
-As demonstrated above, both strain localization at material level and end contraints can lead to shear failure, and the two factors working together may lead to complex zigzagged failure patterns commonly observed in laboratory experiments on shale. 
+As demonstrated above, both strain localization at material level and end contraints can lead to shear failure, and the two factors working together may lead to complex zigzagged failure patterns commonly observed in laboratory experiments on shale.  
 </p>
 
 ## Cam-Clay IX model:
