@@ -48,7 +48,7 @@ Creep induced strain localization in specimen with heterogeneous material distri
 </h6>
 
 ## Double-yield-surface plasticity model:  
-we together analyzed the individual impact of weak bedding planes, in addition to an anisotropic rock matrix, on the mechanical responses of shale[3], and proposed a double-yield-surface plasticity model.
+1we together analyzed the individual impact of weak bedding planes, in addition to an anisotropic rock matrix, on the mechanical responses of shale[3], and proposed a double-yield-surface plasticity model.
 
 <img src="/images/DYS_1.jpg"/>  
 <h6 align="center">
