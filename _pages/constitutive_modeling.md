@@ -20,7 +20,8 @@ On the same material, we conducted finite element simulations found that while t
 </p>
 <img src="/images/AMCC_2.jpg"/>    
 <h6 align="center">
-Swing effect of specimen in plane strain compression tests. bedding plane orientation equals (left) 45° (right) 15°.    
+Swing effect of specimen in plane strain compression tests.<br>
+bedding plane orientation equals (left) 45° (right) 15°.    
 </h6>
 <p align="justify">
 Accordingly, if both bottom and top ends were clamped and the swing of the specimen were restricted, we would get localized shear bands in the specimen triggered by the end constriants, propagating along either bed-normal direction or bed-parallel direction:  
@@ -58,7 +59,6 @@ Illustration of the double-yield-surface plasticity model for transversely isotr
 Variation of rock strength with bedding plane orientation. <br>
 (left) Synthetic transversely isotropic rocks (right) NW-Spain Slate  
 </h6>
-<br>
 <br>
 
 ### Reference:  
