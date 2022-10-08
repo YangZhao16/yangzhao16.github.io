@@ -2,7 +2,7 @@
 main:
 
   - title: "Profile"
-    url: /cv/
+    url: /profile/
 
   - title: "Research"
     url: /research/ 
@@ -14,7 +14,7 @@ main:
     url: /teaching/    
     
   - title: "Gallery"
-    url: /portfolio/
+    url: /gallery/
 
   - title: "Contact"
     url: /contact/
