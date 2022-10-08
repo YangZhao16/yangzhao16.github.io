@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Yang Research Website"
 title_separator          : "-"
 name                     : &name "Yang Zhao"
 description              : &description "personal description"
