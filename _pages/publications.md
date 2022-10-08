@@ -9,7 +9,7 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-You can also find my articles on my <u><a href="{{author.googlescholar}}"> Google Scholar</a></u> or <u><a href="{{author.researchgate}}"> ResearchGate</a></u> profile.  
+You can also find my articles on my <a href="{{author.googlescholar}}"> Google Scholar</a> or <a href="{{author.researchgate}}"> ResearchGate</a> profile.  
 <br>
 
 Note: * - corresponding author.  
