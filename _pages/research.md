@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <img src="/images/For_profile.jpg"/>  
-<p align="center">
+<h6 align="center">
 Broad outline of my research.  
-</p>
+</h6>
 <br>  
 
 <p align="justify">
