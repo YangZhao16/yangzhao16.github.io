@@ -18,7 +18,7 @@ My research is to study the underlying physics of solid deformation and fluid fl
 My collaboration with Professor Borja continues after my graduation, and we together analyzed the individual impact of bedding structures on the mechanical responses of shale, and how chemical-reaction-induced solid dissolution influenced the hydromechanical responses of porous rocks as well as the seal integrity of CO2 sequestration reservoirs. My current postdoctoral research focuses on the fracturing processes in anisotropic rocks, and I’ve already developed a tensile failure criterion for laminated rocks considering influences from both bedding planes and the anisotropic rock matrix. Ongoing works include casting the criterion in boundary-value problem simulation frameworks, and analyzing multi-physics fracturing processes in anisotropic rocks such as hydraulic fracturing and shale gas production, gas leaking in CO2 storage sites, etc. My career vision is to develop a world-class research group focusing on the multi-phase and multi-physics processes in the subsurface porous media spanning a wide range of spatial scales relevant to emerging challenges on water, energy, and environmental issues. 
 </p>
 
-* Focal areas of my research:
-  * Constitutive modeling of transversely isotropic rocks
-  * Poromechanical modeling of coupled solid deformation-fluid flow in shale
-  * Fracture modeling of rocks with bedding planes
+<b>Focal areas of my research:</b>
+* Constitutive modeling of transversely isotropic rocks
+* Poromechanical modeling of coupled solid deformation-fluid flow in shale
+* Fracture modeling of rocks with bedding planes
