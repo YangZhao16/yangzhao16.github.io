@@ -5,6 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
+<img src="/images/For_profile.jpg"/>  
+<p align="center">
+Broad outline of Yang Zhao's research.  
+</p>
+<br>  
+<br>
+
 # Summary of Ph.D. Research at Stanford University  
 
 My Ph.D. research primarily focused on investigating the hydromechanical response of shale, a sedimentary rock commonly encountered in the exploration of subsurface energy. For instance, shale is the gas-bearing material in shale gas exploitation, and it often serves as a seal rock for CO2 sequestration. Shale is an anisotropic rock with a laminated bedding structure, and it’s a heterogenous material made up of hard materials such as quartz and carbonate, and soft materials including kerogen. In addition, shale is a tight rock where the voids exist as either micro fractures or nanopores, resulting in a bimodal pore size distribution. My Ph.D. research is to develop novel mathematical and computational models to quantify the coupled solid deformation and fluid flow in shale reflecting these unique factors in shale, and my major contributions include the following:  
