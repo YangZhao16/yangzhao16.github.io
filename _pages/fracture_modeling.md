@@ -23,7 +23,7 @@ The figure above illustrates the variation of tensile strength with bedding plan
 * It has been revealed in literatures that the prediction of failure plane orientation with the Nova-Zaninetti can hardly be regarded as perfect.  
 
 <p align="justify">
-Faced with the limitations of the existing tensile failure criteria for transversely isotropic rocks, we developed a novel two-mechanism tensile failure criterion that can overcome these issues. For failure through anisotropic rock matrix, we also extended the Rankine criterion to reflect the impact of material anisotropy. Rather than finding a direct expression of the bedding-orientation-dependent rock strength, we instead extend the stress measure with an alternative stress transformed with a rank-four projection tensor. Failure criterion for anisotropic rock matrix developed in this manner has a more general application range than the Nova-Zaninetti criterion, as for a given anisotropy ratio, there can be various forms of the strength variation curve with bedding plane orientation.  
+Faced with the limitations of the existing tensile failure criteria for transversely isotropic rocks, we developed a novel two-mechanism tensile failure criterion that can overcome these issues[1]. For failure through anisotropic rock matrix, we also extended the Rankine criterion to reflect the impact of material anisotropy. Rather than finding a direct expression of the bedding-orientation-dependent rock strength, we instead extend the stress measure with an alternative stress transformed with a rank-four projection tensor. Failure criterion for anisotropic rock matrix developed in this manner has a more general application range than the Nova-Zaninetti criterion, as for a given anisotropy ratio, there can be various forms of the strength variation curve with bedding plane orientation.  
 </p>  
 
 <img src="/images/DT_3.jpg"/>  
@@ -40,7 +40,7 @@ For failure along the bedding planes, we treat it seperately and constructed the
 
 ## Phase-field modeling of tensile fracturing processes in transversely isotropic rocks 
 <p align="justify">
-One of my ongoing work is to cast the dual mechanism failure criterion into the phase-field fracture modeling framework and develop a computational tool for boundary-value problem simulations that involve tensile failure of transversely isotropic rocks. By assigning each failure mechanism a distinct phase-field variable, we can describe failure through rock matrix or along weak bedding planes separately.  
+One of my ongoing work is to cast the dual mechanism failure criterion into the phase-field fracture modeling framework and develop a computational tool for boundary-value problem simulations that involve tensile failure of transversely isotropic rocks[2]. By assigning each failure mechanism a distinct phase-field variable, we can describe failure through rock matrix or along weak bedding planes separately.  
 </p>
 
 <p align="justify">
