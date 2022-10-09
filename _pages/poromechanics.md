@@ -37,3 +37,7 @@ Under construction: Anticipated finish date: 2022/10/9 :-)
 <img src="/images/DP_2.PNG"/>  
 <h6 align="center">Evolution of ground settlement given different overburns.   
 </h6>
+
+## Reference:
+\[1\] <b>Zhao Y.</b>, Borja R.I.\* (2020). A continuum framework for coupled solid deformation–fluid flow through anisotropic elastoplastic porous media. <i>Computer Methods in Applied Mechanics and Engineering</i>, 369, 113225.  <br>
+\[2\] <b>Zhao Y.</b>, Borja R.I.\* (2021). Anisotropic elastoplastic response of double-porosity media. <i>Computer Methods in Applied Mechanics and Engineering</i>, 380, 113797.
