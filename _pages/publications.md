@@ -16,7 +16,7 @@ Note: * - corresponding author.
 
 
 ## Paper in preparation: 
-<b>On the hydromechanical response of transversely isotropic elastic media with internal erosion</b>  
+<b>Solid-fluid interaction in porous materials with internal erosion</b>  
 Chen W., <b>Zhao Y.</b>, Borja R.I.*, <i>manuscript finished</i>.  
   
 <b>A stress-based double-phase-field framework for tensile fracturing process in transversely isotropic rocks</b>  
