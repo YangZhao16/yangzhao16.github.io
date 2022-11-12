@@ -17,13 +17,13 @@ Note: * - corresponding author.
 
 ## Paper in preparation: 
 <b>Solid-fluid interaction in porous materials with internal erosion</b>  
-Chen W., <b>Zhao Y.</b>, Borja R.I.*, <i>manuscript finished</i>.  
+Chen W., <b>Zhao Y.</b>, Borja R.I.\*, submitted to <i>Acta Geotechnica</i>, under review.  
   
 <b>A stress-based double-phase-field framework for tensile fracturing process in transversely isotropic rocks</b>  
-Yuan W.H., <b>Zhao Y.</b>\*, Zhang B.Y., <i>manuscript in preparation</i>.  
+Yuan W.H., <b>Zhao Y.</b>\*, Zhang B.Y., manuscript in preparation.  
 
 <b>An enhanced assumed strain finite element framework considering two failure modes in transversely isotropic rocks</b>  
-<b>Zhao Y.</b>, Wang R.\*, Zhang J.M., <i>manuscript in preparation</i>.  
+<b>Zhao Y.</b>, Wang R.\*, Zhang J.M., manuscript in preparation.  
 <br>
   
 ## Journal papers:
