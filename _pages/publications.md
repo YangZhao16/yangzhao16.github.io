@@ -28,10 +28,10 @@ Yuan W.H., <b>Zhao Y.</b>\*, Zhang B.Y., manuscript in preparation.
   
 ## Journal papers:
 <b>A dual-mechanism tensile failure criterion for transversely isotropic rocks</b>  
-<b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2022). <i>Acta Geotechnica</i>, 1-14. 
+<b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2022). <i>Acta Geotechnica</i>, 17(11), 5187-5200.
 
 <b>A double-yield-surface plasticity theory for transversely isotropic rocks</b>  
-<b>Zhao Y.</b>, Borja R.I.\* (2022). <i>Acta Geotechnica</i>, 1-21. 
+<b>Zhao Y.</b>, Borja R.I.\* (2022). <i>Acta Geotechnica</i>, 17(11), 5201-5221.
 
 <b>Anisotropic elastoplastic response of double-porosity media</b>  
 <b>Zhao Y.</b>, Borja R.I.\* (2021). <i>Computer Methods in Applied Mechanics and Engineering</i>, 380, 113797.
