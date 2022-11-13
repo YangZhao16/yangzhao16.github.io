@@ -68,4 +68,4 @@ Variation of rock strength with bedding plane orientation. <br>
 ## Reference:  
 \[1\] <b>Zhao Y.</b>, Semnani S.J., Yin Q., Borja R.I.* (2018). On the strength of transversely isotropic rocks. <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
 \[2\] Borja R.I.\*, Yin Q., <b>Zhao Y.</b> (2020). Cam-Clay plasticity. Part IX: On the anisotropy, heterogeneity, and viscoplasticity of shale. <i>Computer Methods in Applied Mechanics and Engineering</i>, 360, 112695.  
-\[3\] <b>Zhao Y.</b>, Borja R.I.* (2022). A double-yield-surface plasticity theory for transversely isotropic rocks. <i>Acta Geotechnica</i>, 1-21.
+\[3\] <b>Zhao Y.</b>, Borja R.I.* (2022). A double-yield-surface plasticity theory for transversely isotropic rocks. <i>Acta Geotechnica</i>, 17(11), 5201-5221.
