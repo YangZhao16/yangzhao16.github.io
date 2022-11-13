@@ -60,5 +60,5 @@ We also made a comparison of the rock tension strengh and failure plane orientat
 </h6>
 
 ## Reference:
-\[1\] <b>Zhao Y.</b>, Wang R., Zhang J.M.* (2022). A dual-mechanism tensile failure criterion for transversely isotropic rocks. <i>Acta Geotechnica</i>, 1-14.  
+\[1\] <b>Zhao Y.</b>, Wang R., Zhang J.M.* (2022). A dual-mechanism tensile failure criterion for transversely isotropic rocks. <i>Acta Geotechnica</i>, 17(11), 5187-5200.  
 \[2\] Yuan W.H., <b>Zhao Y.</b>\*, Zhang B.Y., A stress-based double-phase-field framework for tensile fracturing process in transversely isotropic rocks, <i>manuscript in preparation</i>.  
