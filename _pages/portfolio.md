@@ -15,7 +15,7 @@ Engineering Mechanics Institute(EMI) Conference 2019.
 
 <img src="/images/Seminar.jpg"/>  
 <h6 align="center">
-Stanford-UC Berkeley CEE seminar 2018.  
+Berkeley/Stanford Computational Mechanics Festival 2018.  
 </h6>
 <br>
 <br>
