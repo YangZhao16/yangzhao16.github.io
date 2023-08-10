@@ -53,6 +53,10 @@ redirect_from:
 <br>
 
 ## Academic services
+* <b>Journal Special Issue Editor</b>  
+  Frontiers in Built Environment:  
+  Synergistic Convergence of Machine Learning, Artificial Intelligence, and Geotechnical Engineering: Pioneering Innovations for Unraveling Earthquake Resilience and Geomechanical Analysis (With Chenying Liu and Bozhi Deng)
+  
 * <b>Journal reviewer</b>  
   Acta Geotechnica  
   International Journal for Numerical and Analytical Methods in Geomechanics  
