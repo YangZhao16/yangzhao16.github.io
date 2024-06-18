@@ -14,19 +14,20 @@ You can also find my articles on my <a href="{{author.googlescholar}}"> Google S
 
 Note: * - corresponding author.  
 
-
-## Paper in preparation: 
-<b>Solid-fluid interaction in porous materials with internal erosion</b>  
-Chen W., <b>Zhao Y.</b>, Borja R.I.\*, submitted to <i>Acta Geotechnica</i>, under review.  
-  
-<b>A stress-based double-phase-field framework for tensile fracturing process in transversely isotropic rocks</b>  
-Yuan W.H., <b>Zhao Y.</b>\*, Zhang B.Y., manuscript in preparation.  
-
-<b>An enhanced assumed strain finite element framework considering two failure modes in transversely isotropic rocks</b>  
-<b>Zhao Y.</b>, Wang R.\*, Zhang J.M., manuscript in preparation.  
-<br>
   
 ## Journal papers:
+<b>A stress-driven double-phase-field framework for tensile fracturing processes in transversely isotropic rocks</b>  
+Yuan W., Zhao Y.\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, under review.
+
+<b>An assumed enhanced strain finite element framework for tensile fracturing processes with dual-mechanism failure in transversely isotropic rocks</b>  
+<b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2024). <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, accepted.
+
+<b>Parameters Affecting the Proppant Distribution in Multiple Growing Hydraulic Fractures</b>  
+Cheng S., Wu B.\*, Wang G., Chen Z., <b>Zhao Y.</b>\*,  Ma T. (2024). <i>Rock Mechanics and Rock Engineering</i>, 1-18.
+
+<b>Solid-fluid interaction in porous materials with internal erosion</b>  
+Chen W., <b>Zhao Y.</b>, Borja R.I.\* (2023). <i>Acta Geotechnica</i>, 18(10), 5147-5164.  
+
 <b>A dual-mechanism tensile failure criterion for transversely isotropic rocks</b>  
 <b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2022). <i>Acta Geotechnica</i>, 17(11), 5187-5200.
 
