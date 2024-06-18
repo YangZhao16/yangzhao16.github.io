@@ -17,7 +17,7 @@ Note: * - corresponding author.
   
 ## Journal papers:
 <b>A stress-driven double-phase-field framework for tensile fracturing processes in transversely isotropic rocks</b>  
-Yuan W., Zhao Y.\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, under review.
+Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, under review.
 
 <b>An assumed enhanced strain finite element framework for tensile fracturing processes with dual-mechanism failure in transversely isotropic rocks</b>  
 <b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2024). <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, accepted.
