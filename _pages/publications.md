@@ -16,34 +16,34 @@ Note: * - corresponding author.
 
   
 ## Journal papers:
-<b>A stress-driven double-phase-field framework for tensile fracturing processes in transversely isotropic rocks</b>  
+[1] <b>A stress-driven double-phase-field framework for tensile fracturing processes in transversely isotropic rocks</b>  
 Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, under review.
 
-<b>An assumed enhanced strain finite element framework for tensile fracturing processes with dual-mechanism failure in transversely isotropic rocks</b>  
+[2] <b>An assumed enhanced strain finite element framework for tensile fracturing processes with dual-mechanism failure in transversely isotropic rocks</b>  
 <b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2024). <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, accepted.
 
-<b>Parameters Affecting the Proppant Distribution in Multiple Growing Hydraulic Fractures</b>  
+[3] <b>Parameters Affecting the Proppant Distribution in Multiple Growing Hydraulic Fractures</b>  
 Cheng S., Wu B.\*, Wang G., Chen Z., <b>Zhao Y.</b>\*,  Ma T. (2024). <i>Rock Mechanics and Rock Engineering</i>, 1-18.
 
-<b>Solid-fluid interaction in porous materials with internal erosion</b>  
+[4] <b>Solid-fluid interaction in porous materials with internal erosion</b>  
 Chen W., <b>Zhao Y.</b>, Borja R.I.\* (2023). <i>Acta Geotechnica</i>, 18(10), 5147-5164.  
 
-<b>A dual-mechanism tensile failure criterion for transversely isotropic rocks</b>  
+[5] <b>A dual-mechanism tensile failure criterion for transversely isotropic rocks</b>  
 <b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2022). <i>Acta Geotechnica</i>, 17(11), 5187-5200.
 
-<b>A double-yield-surface plasticity theory for transversely isotropic rocks</b>  
+[6] <b>A double-yield-surface plasticity theory for transversely isotropic rocks</b>  
 <b>Zhao Y.</b>, Borja R.I.\* (2022). <i>Acta Geotechnica</i>, 17(11), 5201-5221.
 
-<b>Anisotropic elastoplastic response of double-porosity media</b>  
+[7] <b>Anisotropic elastoplastic response of double-porosity media</b>  
 <b>Zhao Y.</b>, Borja R.I.\* (2021). <i>Computer Methods in Applied Mechanics and Engineering</i>, 380, 113797.
 
-<b>A continuum framework for coupled solid deformation–fluid flow through anisotropic elastoplastic porous media</b>  
+[8] <b>A continuum framework for coupled solid deformation–fluid flow through anisotropic elastoplastic porous media</b>  
 <b>Zhao Y.</b>, Borja R.I.\* (2020). <i>Computer Methods in Applied Mechanics and Engineering</i>, 369, 113225.
 
-<b>Cam-Clay plasticity. Part IX: On the anisotropy, heterogeneity, and viscoplasticity of shale</b>  
+[9] <b>Cam-Clay plasticity. Part IX: On the anisotropy, heterogeneity, and viscoplasticity of shale</b>  
 Borja R.I.\*, Yin Q., <b>Zhao Y.</b> (2020). <i>Computer Methods in Applied Mechanics and Engineering</i>, 360, 112695.
 
-<b>On the strength of transversely isotropic rocks</b>  
+[10] <b>On the strength of transversely isotropic rocks</b>  
 <b>Zhao Y.</b>, Semnani S.J., Yin Q., Borja R.I.\* (2018). <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 42(16), 1917-1934.  
 <br>
   
