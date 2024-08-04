@@ -20,7 +20,7 @@ Note: * - corresponding author.
 Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, under review.
 
 [10] <b>Fast Permeability Measurement For Tight Reservoir Cores Using Only Initial Data of The One Chamber Pressure Pulse Decay Test</b>  
-Nguyen A.T., Asem P., <b>Zhao Y.</b>, Bazant Z.P.\* (2024). <i>Journal of the Mechanics and Physics of Solids</i>, accepted.
+Nguyen A.T., Asem P., <b>Zhao Y.</b>, Bazant Z.P.\* (2024). <i>Journal of the Mechanics and Physics of Solids</i>, https://doi.org/10.1016/j.jmps.2024.105805.
 
 [9] <b>An assumed enhanced strain finite element framework for tensile fracturing processes with dual-mechanism failure in transversely isotropic rocks</b>  
 <b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2024). <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, accepted.
