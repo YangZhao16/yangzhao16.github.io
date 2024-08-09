@@ -23,7 +23,12 @@ redirect_from:
 <br>
 
 ## Research and professional experience
-* <b>Shuimu Postdoctoral Fellow</b>, 2021/12-present  
+* <b>Postdoctoral Fellow</b>, 2024/05-present  
+  <i>Northwestern University</i>   
+  Research topics: Carbon geological sequestration  
+  Advisor: Professor Zdenek Bazant  
+
+* <b>Shuimu Postdoctoral Fellow</b>, 2021/12-2024/04  
   <i>Institute of Geotechnical Engineering in the Department of Hydraulic Engineering, Tsinghua University</i>   
   Program summary: The Shuimu scholar program is a merit-based postdoctoral program at Tsinghua university  
   Research topics: Fracture modeling of laminated rocks; Constitutive modeling of marine clay  
