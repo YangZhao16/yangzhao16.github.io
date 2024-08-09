@@ -60,9 +60,14 @@ redirect_from:
 * <b>Journal reviewer</b>  
   Acta Geotechnica  
   International Journal for Numerical and Analytical Methods in Geomechanics  
+  International Journal for Numerical Methods in Engineering  
   International Journal for Multiscale Computational Engineering  
-  Continuum Mechanics and Thermodynamics  
+  Computational Mechanics  
+  Computers and Geotechnics  
+  Continuum Mechanics and Thermodynamics    
   KSCE Journal of Civil Engineering  
+  Journal of Elasticity  
+  Water Resource Research  
 <br>
 
 ## Honors and awards
