@@ -63,15 +63,16 @@ redirect_from:
   Synergistic Convergence of Machine Learning, Artificial Intelligence, and Geotechnical Engineering: Pioneering Innovations for Unraveling Earthquake Resilience and Geomechanical Analysis (With Chenying Liu and Bozhi Deng)
   
 * <b>Journal reviewer</b>  
-  Acta Geotechnica  
+  Acta Geotechnica
+  Computational Mechanics  
+  Computers and Geotechnics  
+  Continuum Mechanics and Thermodynamics  
+  Géotechnique  
   International Journal for Numerical and Analytical Methods in Geomechanics  
   International Journal for Numerical Methods in Engineering  
   International Journal for Multiscale Computational Engineering  
-  Computational Mechanics  
-  Computers and Geotechnics  
-  Continuum Mechanics and Thermodynamics    
-  KSCE Journal of Civil Engineering  
   Journal of Elasticity  
+  KSCE Journal of Civil Engineering  
   Water Resource Research  
 <br>
 
