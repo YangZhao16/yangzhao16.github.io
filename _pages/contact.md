@@ -8,11 +8,11 @@ author_profile: true
 Yang Zhao, Ph.D.
 
 Postdoctoral researcher  
-Department of Hydraulic Engineering  
-Tsinghua University  
-Beijing, China, 100084  
+Department of Civil and Environmental Engineering  
+Northwestern University  
+Evanston, IL, 60208 
 
-Email: yangzhao2021@mail.tsinghua.edu.cn  
+Email: yangzhao@northwestern.edu
   
 
 
