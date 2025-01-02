@@ -20,7 +20,7 @@ Note: * - corresponding author.
 Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>Acta Geotechnica</i>, under review.
 
 [11] <b>A Stress-driven Double-phase-field Framework for Tensile Fracturing Processes in Transversely Isotropic Rocks</b>  
-Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>. https://doi.org/10.1002/nag.3830
+Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, 48(17), 4188-4205.
 
 [10] <b>Fast Permeability Measurement For Tight Reservoir Cores Using Only Initial Data of The One Chamber Pressure Pulse Decay Test</b>  
 Nguyen A.T., Asem P., <b>Zhao Y.</b>, Bazant Z.P.\* (2024). <i>Journal of the Mechanics and Physics of Solids</i>, 105805.
