@@ -73,6 +73,7 @@ redirect_from:
   International Journal for Multiscale Computational Engineering  
   Journal of Elasticity  
   KSCE Journal of Civil Engineering  
+  Rock Mechanics and Rock Engineering  
   Water Resource Research  
 <br>
 
