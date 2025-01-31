@@ -17,7 +17,7 @@ Note: * - corresponding author.
   
 ## Journal papers:
 [12] <b>A Poromechanical Framework for Hydraulic Fracturing Processes in Transversely Isotropic Rocks</b>  
-Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>Acta Geotechnica</i>, under review.
+Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2025). <i>Acta Geotechnica</i>, 1-25.
 
 [11] <b>A Stress-driven Double-phase-field Framework for Tensile Fracturing Processes in Transversely Isotropic Rocks</b>  
 Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, 48(17), 4188-4205.
