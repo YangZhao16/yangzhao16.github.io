@@ -44,11 +44,6 @@ redirect_from:
   Advisor: Professor Ronaldo I. Borja  
 <br>    
 
-## Grants
-* <b>Principal Investigator (PI)</b>, Dynamic response and failure mechanism of suction caisson in K0-consolidated clayey seabed, supported by National Natural Science Foundation of China (grant ID: 52201326), 300,000RMB≈43,000USD, 2023/01-2025/12.
-* <b>Principal Investigator (PI)</b>, Investigation of the dynamic response of laminated clayey seabed in the installation process of suction caisson foundation, supported by China Postdoctoral Science Foundation (grant ID: 2022M721883), 80,000RMB≈11,500USD, 2022/11-2023/12.
-<br>
-  
 ## Fellowships
 * <b>John A. Blume Research Fellowship</b>, Stanford University, 2018, 2019.  
 * <b>School of Engineering (SOE) Graduate Fellowship</b>, Stanford University, 2017, 2021.
