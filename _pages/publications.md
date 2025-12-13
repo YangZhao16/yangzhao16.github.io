@@ -16,17 +16,23 @@ Note: * - corresponding author.
 
   
 ## Journal papers:
-[12] <b>A Poromechanical Framework for Hydraulic Fracturing Processes in Transversely Isotropic Rocks</b>  
-Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2025). <i>Acta Geotechnica</i>, 1-25.
+[14] <b>Crack-Parallel Stress Effects in Soft Material Fracture: Insights From Gap Tests and the Microplane Modeling Perspective</b>  
+<b>Zhao Y.</b>, Nguyen A.T., Chen H., Espinosa H., Bazant Z.P.\* (2026). <i>Journal of Applied Mechanics</i>, 93 (2), 021001.
 
-[11] <b>A Stress-driven Double-phase-field Framework for Tensile Fracturing Processes in Transversely Isotropic Rocks</b>  
+[13] <b>Osmotic control of the spacing of parallel shear cracks in shale growing subcritically in geologic past</b>  
+<b>Zhao Y.</b>, Nguyen A.T., Nguyen H.T., Bazant Z.P.\* (2025). <i>Journal of the Mechanics and Physics of Solids</i>, 106428.
+
+[12] <b>A Poromechanical Framework for Hydraulic Fracturing Processes in Transversely Isotropic Rocks</b>  
+Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2025). <i>Acta Geotechnica</i>, 20 (5), 2049-2073.
+
+[11] <b>An Assumed Enhanced Strain Finite Element Framework for Tensile Fracturing Processes with Dual-mechanism Failure in Transversely Isotropic Rocks</b>  
+<b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2025). <i>Journal of Rock Mechanics and Geotechnical Engineering</i>, 17 (3), 1474-1488.
+
+[10] <b>A Stress-driven Double-phase-field Framework for Tensile Fracturing Processes in Transversely Isotropic Rocks</b>  
 Yuan W., <b>Zhao Y.</b>\*, Zhang B. (2024). <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, 48(17), 4188-4205.
 
-[10] <b>Fast Permeability Measurement For Tight Reservoir Cores Using Only Initial Data of The One Chamber Pressure Pulse Decay Test</b>  
+[9] <b>Fast Permeability Measurement For Tight Reservoir Cores Using Only Initial Data of The One Chamber Pressure Pulse Decay Test</b>  
 Nguyen A.T., Asem P., <b>Zhao Y.</b>, Bazant Z.P.\* (2024). <i>Journal of the Mechanics and Physics of Solids</i>, 105805.
-
-[9] <b>An Assumed Enhanced Strain Finite Element Framework for Tensile Fracturing Processes with Dual-mechanism Failure in Transversely Isotropic Rocks</b>  
-<b>Zhao Y.</b>, Wang R.\*, Zhang J.M. (2024). <i>Journal of Rock Mechanics and Geotechnical Engineering</i>. https://doi.org/10.1016/j.jrmge.2024.04.027
 
 [8] <b>Parameters Affecting the Proppant Distribution in Multiple Growing Hydraulic Fractures</b>  
 Cheng S., Wu B.\*, Wang G., Chen Z., <b>Zhao Y.</b>\*,  Ma T. (2024). <i>Rock Mechanics and Rock Engineering</i>, 1-18.
