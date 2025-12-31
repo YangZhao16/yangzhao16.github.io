@@ -16,6 +16,18 @@ Note: * - corresponding author.
 
   
 ## Journal papers:
+[18] <b>Centrifuge Tests on a Soil Plug Removal Method for Suction Caisson During Installation</b>  
+<b>Zhao Y.</b>, Cheng F., Wang R.\*, Zhang J.M. Submitted to <i>Applied Ocean Research</i>, under review.
+
+[17] <b>Smooth Lagrangian Crack Band Model with Softening Spress-Sprain Relationship and Crack Width Prediction</b>  
+Xu H., <b>Zhao Y.</b>, Nguyen A.T., Bazant Z.P.\*. Submitted to <i>International Journal of Non-Linear Mechanics</i>, under review.
+
+[16] <b>Critique of marginal equations in concrete design codes and of their effect on structural safety software</b>  
+Xu H., <b>Zhao Y.</b>, Le J-L., Nguyen A.T., Deodatis G., Bazant Z.P.\*. Submitted to <i>Structural Safety</i>, under review.
+
+[15] <b>A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: Experimental validation</b>  
+Asem P.\*, Nguyen A.T., <b>Zhao Y.</b>, Labuz J.F., Bazant Z.P. Submitted to <i>Rock Mechanics and Rock Engineering</i>, under review.
+
 [14] <b>Crack-Parallel Stress Effects in Soft Material Fracture: Insights From Gap Tests and the Microplane Modeling Perspective</b>  
 <b>Zhao Y.</b>, Nguyen A.T., Chen H., Espinosa H., Bazant Z.P.\* (2026). <i>Journal of Applied Mechanics</i>, 93 (2), 021001.
 
@@ -60,10 +72,22 @@ Borja R.I.\*, Yin Q., <b>Zhao Y.</b> (2020). <i>Computer Methods in Applied Mech
 <br>
   
 ## Conference papers:
-<b>Deformation and Strength of Transversely Isotropic Rocks</b>  
+[6] <b>A poromechanical model for the branching of hydraulic fractures in rocks with pre-existing weak layers</b>  
+Xu H., Nguyen A.T.,<b>Zhao Y.</b>, Bazant Z.P.\* (2025). ARMA US Rock Mechanics/Geomechanics Symposium, D021S006R005.
+
+[5] <b>Fast permeability measurements of tight rock: Theoretical study and experimental validation</b>  
+Asem P., Nguyen A.T., Matter J., <b>Zhao Y.</b>, Labuz J.F., Bazant Z.P.\* (2025). ARMA US Rock Mechanics/Geomechanics Symposium, D032S044R007.
+
+[4] <b>Steady-state subcritical fracture growth of parallel natural cracks in shale governed by osmotic gradient and fluid diffusion</b>  
+Bazant Z.P.\*, Nguyen H.T., <b>Zhao Y.</b> (2025). 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures.
+
+[3] <b>Sprain energy and gap test consequences for damage localization and fracture mechanics</b>  
+Bazant Z.P.\*, Xu H., Nguyen A.T., <b>Zhao Y.</b> (2025). 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures.
+
+[2] <b>Deformation and Strength of Transversely Isotropic Rocks</b>  
 <b>Zhao Y.</b>, Borja R.I.\* (2019). In Desiderata Geotechnica (pp. 237-241). Springer, Cham. 
 
-<b>A Coupling Finite-Discrete Element Method for Mechanical Analysis of Granular Materials</b>  
+[1] <b>A Coupling Finite-Discrete Element Method for Mechanical Analysis of Granular Materials</b>  
 Xu W.J.\*, <b>Zhao Y.</b> (2018). In GeoShanghai International Conference (pp. 901-910). Springer, Singapore.
 
 
