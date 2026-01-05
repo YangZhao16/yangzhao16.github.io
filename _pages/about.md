@@ -14,7 +14,7 @@ I work on computational geomechanics focused on the coupled hydro-chemo-mechanic
 </p>
 
 <p align="justify"> 
-I will be joining the Department of Civil Engineering at the University in the Spring of 2026, and I am actively seeking Ph.D. students and postdoctoral scholars. Interested candidates can send email to me to discuss about these opportunities.
+I will be joining the Department of Civil Engineering at the University of Hong Kong in the Spring of 2026, and I am actively seeking Ph.D. students and postdoctoral scholars. Interested candidates can send email to me to discuss about these opportunities.
 </p>  
 
 
