@@ -15,7 +15,7 @@ I work on computational geomechanics focused on the coupled hydro-chemo-mechanic
 
 <p align="justify"> 
 I will be joining the Department of Civil Engineering at the University in the Spring of 2026, and I am actively seeking Ph.D. students and postdoctoral scholars. Interested candidates can send email to me to discuss about these opportunities.
-</p>
+</p>  
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=QzBRXAUXBXLUmP_DYXsMM4hsZIT1_Xh4zy6aQBiUMYg'></script>
