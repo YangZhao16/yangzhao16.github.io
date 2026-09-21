@@ -16,17 +16,20 @@ Note: * - corresponding author.
 
   
 ## Journal papers:
+[19] <b>A thermodynamically admissible fractional-order plasticity framework with state-dependent parameter learning for geomaterials</b>  
+Zhang B., Ran Y., <b>Zhao Y.</b>, Ouyang Z., Zhao L. (2026). <i>International Journal of Plasticity</i>, 104780.
+
 [18] <b>Centrifuge Tests on a Soil Plug Removal Method for Suction Caisson During Installation</b>  
-<b>Zhao Y.</b>, Cheng F., Wang R.\*, Zhang J.M. Submitted to <i>Applied Ocean Research</i>, under review.
+<b>Zhao Y.</b>, Cheng F., Wang R.\*, Zhang J.M. (2026). <i>Applied Ocean Research</i>, 173, 105151.
 
 [17] <b>Smooth Lagrangian Crack Band Model with Softening Spress-Sprain Relationship and Crack Width Prediction</b>  
-Xu H., <b>Zhao Y.</b>, Nguyen A.T., Bazant Z.P.\*. Submitted to <i>International Journal of Non-Linear Mechanics</i>, under review.
+Xu H., <b>Zhao Y.</b>, Nguyen A.T., Bazant Z.P.\*. (2026). <i>International Journal of Non-Linear Mechanics</i>, 105340.
 
-[16] <b>Critique of marginal equations in concrete design codes and of their effect on structural safety software</b>  
-Xu H., <b>Zhao Y.</b>, Le J-L., Nguyen A.T., Deodatis G., Bazant Z.P.\*. Submitted to <i>Structural Safety</i>, under review.
+[16] <b>Critique of Lower-Margin Equations in Concrete Design Codes and of Their Effect on Structural Safety Software</b>  
+Xu H., <b>Zhao Y.</b>, Le J-L., Nguyen A.T., Deodatis G., Bazant Z.P.\*. (2026). <i>Journal of Engineering Mechanics</i>, 152(10), 04026061.
 
 [15] <b>A rapid permeability test of low-porosity rock based on analysis of initial pressure pulse decay: Experimental validation</b>  
-Asem P.\*, Nguyen A.T., <b>Zhao Y.</b>, Labuz J.F., Bazant Z.P. Submitted to <i>Rock Mechanics and Rock Engineering</i>, under review.
+Asem P.\*, Nguyen A.T., <b>Zhao Y.</b>, Labuz J.F., Bazant Z.P. (2026). <i>Rock Mechanics and Rock Engineering</i>, 1-16.
 
 [14] <b>Crack-Parallel Stress Effects in Soft Material Fracture: Insights From Gap Tests and the Microplane Modeling Perspective</b>  
 <b>Zhao Y.</b>, Nguyen A.T., Chen H., Espinosa H., Bazant Z.P.\* (2026). <i>Journal of Applied Mechanics</i>, 93 (2), 021001.
@@ -72,6 +75,12 @@ Borja R.I.\*, Yin Q., <b>Zhao Y.</b> (2020). <i>Computer Methods in Applied Mech
 <br>
   
 ## Conference papers:
+[8] <b>Rapid In-Situ Permeability Estimation of Reservoir Rocks from Fall-Off Tests Using a Parabolic Approximation of Axisymmetric Diffusion.</b>   
+Nguyen A.T., <b>Zhao Y.</b>, Niu Y., Bažant Z.P.\* (2026). ARMA US Rock Mechanics/Geomechanics Symposium (p. D022S041R006). ARMA.
+
+[7] <b>Risk from using marginal design code equations and unphysical strength probability distributions in structural safety software–a wake-up call</b>  
+Xu H., <b>Zhao Y.</b>, Le J.L., Nguyen A.T., Deodatis G., Bažant, Z.P.\* (2026). In Computational Modelling of Concrete and Concrete Structures (pp. 13-18). CRC Press.
+
 [6] <b>A poromechanical model for the branching of hydraulic fractures in rocks with pre-existing weak layers</b>  
 Xu H., Nguyen A.T.,<b>Zhao Y.</b>, Bazant Z.P.\* (2025). ARMA US Rock Mechanics/Geomechanics Symposium, D021S006R005.
 
