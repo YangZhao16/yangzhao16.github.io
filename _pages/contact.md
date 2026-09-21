@@ -7,12 +7,11 @@ author_profile: true
 
 Yang Zhao, Ph.D.
 
-Postdoctoral researcher  
-Department of Civil and Environmental Engineering  
-Northwestern University  
-Evanston, IL, 60208 
+Assistant Professor   
+Department of Civil Engineering   
+the University of Hong Kong   
+Pokfulam, Hong Kong   
 
-Email: yangzhao@northwestern.edu
   
 
 
