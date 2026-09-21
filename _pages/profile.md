@@ -23,7 +23,11 @@ redirect_from:
 <br>
 
 ## Research and professional experience
-* <b>Postdoctoral Fellow</b>, 2024/05-present  
+* <b>Assistant Professor</b>, 2026/04-Present  
+  <i>the University of Hong Kong</i>   
+  Research topics: plasticity of geomaterials, computational poromechanics, and rock fracture mechanics  
+
+* <b>Postdoctoral Fellow</b>, 2024/05-2026/03  
   <i>Northwestern University</i>   
   Research topics: Carbon geological sequestration  
   Advisor: Professor Zdenek Bazant  
