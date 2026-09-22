@@ -16,6 +16,9 @@ Note: * - corresponding author.
 
   
 ## Journal papers:
+[20] <b>Gap Test-Inspired Crack-Parallel Tension Tests of Fracture of Soft Knitted Polymer Composites Simulated by Microplane Triads</b>  
+Ding X., Niu Y., <b>Zhao Y.</b>, Chen H., Bae C., Nguyen A.T., Espinosa H.D., Bažant Z.P., Cao J. (2026). <i>Proceedings of the National Academy of Sciences</i>, accepted.
+
 [19] <b>A thermodynamically admissible fractional-order plasticity framework with state-dependent parameter learning for geomaterials</b>  
 Zhang B., Ran Y., <b>Zhao Y.</b>, Ouyang Z., Zhao L. (2026). <i>International Journal of Plasticity</i>, 104780.
 
