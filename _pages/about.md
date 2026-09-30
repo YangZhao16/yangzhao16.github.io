@@ -16,6 +16,4 @@ I work on computational geomechanics focused on the coupled hydro-chemo-mechanic
 <p align="justify"> 
 Currently I am an assistant professor at the Department of Civil Engineering at the University of Hong Kong. I am actively seeking good Ph.D. students to work with me, and interested candidates can send email to me to discuss about these opportunities. No open positions of research assistants and postdocs at the moment.
 </p>  
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=n&d=QzBRXAUXBXLUmP_DYXsMM4hsZIT1_Xh4zy6aQBiUMYg'></script>
+<b>There is no opening for postdoctoral scholars in my group for this moment.</b>
