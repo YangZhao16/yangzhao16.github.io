@@ -71,6 +71,7 @@ redirect_from:
   International Journal for Numerical Methods in Engineering  
   International Journal for Multiscale Computational Engineering  
   Journal of Elasticity  
+  Journal of the Mechanics and Physics of Solids   
   KSCE Journal of Civil Engineering  
   Rock Mechanics and Rock Engineering  
   Water Resource Research  
