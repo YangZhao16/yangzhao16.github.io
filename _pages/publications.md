@@ -16,6 +16,9 @@ Note: * - corresponding author.
 
   
 ## Journal papers:
+[21] <b>Tensile failure of transversely isotropic rocks under triaxial stress state</b>  
+Chen J.,Kong L., Li K., <b>Zhao Y.</b>\*. Submitted to <i>International Journal for Numerical and Analytical Method in Geomechanics</i>, under review.
+
 [20] <b>Gap Test-Inspired Crack-Parallel Tension Tests of Fracture of Soft Knitted Polymer Composites Simulated by Microplane Triads</b>  
 Ding X., Niu Y., <b>Zhao Y.</b>, Chen H., Bae C., Nguyen A.T., Espinosa H.D., Bažant Z.P., Cao J. (2026). <i>Proceedings of the National Academy of Sciences</i>, accepted.
 
